@@ -1,0 +1,9 @@
+<svg width="220" height="68" viewBox="0 0 220 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="68" rx="24" fill="#FFF9DE"/>
+  <rect x="14" y="14" width="40" height="40" rx="14" fill="#FFF1A5"/>
+  <path d="M24 27.5C24 25.567 25.567 24 27.5 24H40.5C42.433 24 44 25.567 44 27.5V35.5C44 37.433 42.433 39 40.5 39H27.5C25.567 39 24 37.433 24 35.5V27.5Z" stroke="#1F1B15" stroke-width="2.4"/>
+  <path d="M22 42H46" stroke="#1F1B15" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M47.5 19L49 22.5L52.5 24L49 25.5L47.5 29L46 25.5L42.5 24L46 22.5L47.5 19Z" fill="#1F1B15"/>
+  <text x="72" y="42" fill="#1F1B15" font-family="Arial, sans-serif" font-size="30" font-weight="700">Zilk</text>
+</svg>
+
